@@ -1,4 +1,5 @@
 deps do
    github "will/crystal-pg"
+   github "manastech/webmock.cr"
 end
 
